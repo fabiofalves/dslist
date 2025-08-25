@@ -84,7 +84,7 @@ O sistema segue a **arquitetura em camadas**, garantindo organização, manuten�
 git clone https://github.com/fabiofalves/dslist.git
 
 # Entrar na pasta do projeto
-cd nome-do-repo
+cd dslist
 
 # Construir o projeto
 mvn clean install
